@@ -1,0 +1,16 @@
+title: Hidden Process Detected
+id: mft-001
+status: experimental
+description: Process found in psscan but not in pslist indicates a hidden/rootkit process.
+logsource:
+  product: memory
+  service: process
+detection:
+  selection:
+    pslist_count: 0
+    psscan_count: 1
+  condition: selection
+level: high
+tags:
+  - attack.defense_evasion
+  - attack.t1014
