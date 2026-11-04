@@ -25,3 +25,9 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ## Status
 🚧 Design phase — scaffolding in progress.
+
+## Author
+Amdjed Salhi
+
+## License
+MIT

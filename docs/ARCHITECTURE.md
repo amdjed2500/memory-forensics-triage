@@ -1,7 +1,6 @@
 # Memory Forensics Triage Tool — Architecture Document
 
 **Project:** `phishing-email-detector` → next: `memory-forensics-triage`
-**Persona:** Elliot (PhD-level cybersec expert)
 **Status:** Design phase
 
 ## 1. Vision
